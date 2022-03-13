@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlejandroLabourdette
 - 👀 I’m interested in being part of a development team
-- 🌱 I'm currently studying computer science
+- 🌱 I grew as a computer scientist in Havana Univesity
 - 💞️ I’m looking to collaborate and gain experience
 - 📫 How to reach me: jal.labourdette@gmail.com
 
