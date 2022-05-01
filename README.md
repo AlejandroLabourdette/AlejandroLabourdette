@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlejandroLabourdette
-- 👀 I’m interested in being part of a development team
+- 👀 I’m interested in generate good code
 - 🌱 I grew as a computer scientist in Havana Univesity
-- 💞️ I’m looking to collaborate and gain experience
+- 💞️ I’m looking to collaborate and build a better comunity
 - 📫 How to reach me: jal.labourdette@gmail.com
 
 <!---
